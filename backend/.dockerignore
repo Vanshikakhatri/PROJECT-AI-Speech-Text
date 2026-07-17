@@ -1,0 +1,10 @@
+.Trash
+__pycache__
+*.mp3
+*.wav
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+tmp/
+.env

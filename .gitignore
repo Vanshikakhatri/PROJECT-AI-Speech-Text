@@ -1,0 +1,9 @@
+backend/venv/
+frontend/node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+backend/voices/en_US-lessac-medium.onnx
+
